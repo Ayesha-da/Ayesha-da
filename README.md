@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayesha Shaheen
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently student of Data Analytics bootcamp at Columbia university.
+- 👀 I’m interested in coding and Machine Learning.
+- 🌱 I graduated from  Data Analytics bootcamp at Columbia university.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 Reach me through my email "ayesha.da7@gmail.com".
 
